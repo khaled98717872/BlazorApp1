@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{3BBC3EFC-84C2-476B-B03D-80183C03DA1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{AF3414FB-752F-43E5-92BE-37D027B0FD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBC3EFC-84C2-476B-B03D-80183C03DA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBC3EFC-84C2-476B-B03D-80183C03DA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBC3EFC-84C2-476B-B03D-80183C03DA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBC3EFC-84C2-476B-B03D-80183C03DA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3414FB-752F-43E5-92BE-37D027B0FD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3414FB-752F-43E5-92BE-37D027B0FD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3414FB-752F-43E5-92BE-37D027B0FD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3414FB-752F-43E5-92BE-37D027B0FD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F204EC6F-D331-4D39-9A5C-05168BBD5C9A}
+	EndGlobalSection
+EndGlobal
